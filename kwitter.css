@@ -1,0 +1,11 @@
+.logo {
+    display: block;
+    margin-left: 130%;
+    margin-right: auto;
+    width: 50%;
+}
+body{
+    background-color: aquamarine;
+    border: azure;
+    border-width: 10px;
+}
